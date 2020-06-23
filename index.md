@@ -15,7 +15,7 @@ I also have a number of side projects that keep me busy.
 <img src="images/avalanche_thumbnail.png?raw=true"/>
 
 ---
-[High-Temperature Vacancy-Mediated Creep](/pdf/sample_presentation.pdf)
+[High-Temperature Vacancy-Mediated Creep](/creep_page)
 <img src="images/creep_gif.gif?raw=true"/>
 
 ---
