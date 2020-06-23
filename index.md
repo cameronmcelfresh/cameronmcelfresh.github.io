@@ -27,7 +27,7 @@ I also have a number of side projects that keep me busy.
 
 ### Past Projects
 
-[Masters Thesis Defense Abriged: An Investigation of Spark Erosion and Multispectral Nanoparticle Tracking](/sample_page)
+[Masters Thesis Defense Abriged: An Investigation of Spark Erosion and Multispectral Nanoparticle Tracking](/pdf/thesis_defense.pdf)
 <img src="images/spark_gif.gif?raw=true" width="480" height="300"/>
 
 ---
