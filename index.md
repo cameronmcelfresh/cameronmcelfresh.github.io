@@ -26,8 +26,10 @@ I also have a number of side projects that keep me busy.
 
 ### Past Projects
 
-[Masters Thesis: ](/pdf/sample_presentation.pdf)
+[Masters Thesis Defense Abriged: An Investigation of Spark Erosion and Multispectral Nanoparticle Tracking](/pdf/thesis_defense.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
 
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
