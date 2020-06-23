@@ -30,7 +30,6 @@ I also have a number of side projects that keep me busy.
 [Masters Thesis Defense Abriged: An Investigation of Spark Erosion and Multispectral Nanoparticle Tracking](/sample_page)
 <img src="images/spark_gif.gif?raw=true" width="480" height="300"/>
 
-<iframe src="https://giphy.com/embed/VJg63f0shOr8hRzaGX" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 ---
 
 [Phase stability and mechanical properties of novel high entropy transi-tion metal carbides](/sample_page)
