@@ -19,7 +19,7 @@ I also have a number of side projects that keep me busy.
 
 ---
 [Modeling High-Strain Rate Armor Deformation](/sample_page)
-<img src="images/armor_thumbnail.png?raw=true"/>
+<img src="images/ti_thumbnail.png?raw=true"/>
 
 
 ---
