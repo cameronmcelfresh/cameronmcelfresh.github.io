@@ -18,7 +18,7 @@ I also have a number of side projects that keep me busy.
 <img src="images/creep_thumbnail.png?raw=true"/>
 
 ---
-[Modeling High-Strain Rate Armor Deformation](http://example.com/)
+[Modeling High-Strain Rate Armor Deformation](/sample_page)
 <img src="images/armor_thumbnail.png?raw=true"/>
 
 
@@ -26,10 +26,11 @@ I also have a number of side projects that keep me busy.
 
 ### Past Projects
 
-[Masters Thesis Defense Abriged: An Investigation of Spark Erosion and Multispectral Nanoparticle Tracking](/pdf/thesis_defense.pdf)
+[Masters Thesis Defense Abriged: An Investigation of Spark Erosion and Multispectral Nanoparticle Tracking](/sample_page)
 <img src="images/thesis_thumbnail.png?raw=true"/>
 
-
+[Phase stability and mechanical properties of novel high entropy transi-tion metal carbides](/sample_page)
+<img src="images/thesis_thumbnail.png?raw=true"/>
 
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
