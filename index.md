@@ -11,7 +11,7 @@ I also have a number of side projects that keep me busy.
 ### Current Projects
 
 [Dislocation Dynamics Modeling of Avalanche Events](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/avalanche_thumbnail.png?raw=true"/>
 
 ---
 [High-Temperature Vacancy-Mediated Creep](/pdf/sample_presentation.pdf)
