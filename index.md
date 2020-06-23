@@ -13,11 +13,10 @@ I also have a number of side projects that keep me busy.
 
 [Dislocation Dynamics Modeling of Avalanche Events](/avalanche_page)
 <img src="images/avalanche_thumbnail.png?raw=true"/>
-<img src="images/download.gif?raw=true"/>
 
 ---
 [High-Temperature Vacancy-Mediated Creep](/pdf/sample_presentation.pdf)
-<iframe src="https://giphy.com/embed/jsmATyV6nPQBcdveHN" width="480" height="254" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img src="images/creep_gif.gif?raw=true"/>
 ---
 [Modeling High-Strain Rate Armor Deformation](/sample_page)
 <img src="images/ti_thumbnail.png?raw=true"/>
@@ -28,6 +27,8 @@ I also have a number of side projects that keep me busy.
 ### Past Projects
 
 [Masters Thesis Defense Abriged: An Investigation of Spark Erosion and Multispectral Nanoparticle Tracking](/sample_page)
+<img src="images/spark_gif.gif?raw=true" width="480" height="300"/>
+
 <iframe src="https://giphy.com/embed/VJg63f0shOr8hRzaGX" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 ---
 
