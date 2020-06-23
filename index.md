@@ -16,8 +16,7 @@ I also have a number of side projects that keep me busy.
 
 ---
 [High-Temperature Vacancy-Mediated Creep](/pdf/sample_presentation.pdf)
-<img src="images/creep_thumbnail.png?raw=true"/>
-
+<iframe src="https://giphy.com/embed/jsmATyV6nPQBcdveHN" width="480" height="254" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jsmATyV6nPQBcdveHN">via GIPHY</a></p>
 ---
 [Modeling High-Strain Rate Armor Deformation](/sample_page)
 <img src="images/ti_thumbnail.png?raw=true"/>
