@@ -10,7 +10,7 @@ I also have a number of side projects that keep me busy.
 --- 
 ### Current Projects
 
-[Dislocation Dynamics Modeling of Avalanche Events](/sample_page)
+[Dislocation Dynamics Modeling of Avalanche Events](/avalanche_page)
 <img src="images/avalanche_thumbnail.png?raw=true"/>
 
 ---
