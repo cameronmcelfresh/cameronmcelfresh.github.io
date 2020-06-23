@@ -33,6 +33,9 @@ I also have a number of side projects that keep me busy.
 [Phase stability and mechanical properties of novel high entropy transi-tion metal carbides](/sample_page)
 <img src="images/thesis_thumbnail.png?raw=true"/>
 
+[Kernel Average Misorientation Analysis of EBSD Data](/sample_page)
+<img src="images/thesis_thumbnail.png?raw=true"/>
+
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
