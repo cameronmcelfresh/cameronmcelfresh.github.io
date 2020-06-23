@@ -15,11 +15,11 @@ I also have a number of side projects that keep me busy.
 
 ---
 [High-Temperature Vacancy-Mediated Creep](/pdf/sample_presentation.pdf)
-<img src="images/creep_thumbnail.jpg?raw=true"/>
+<img src="images/creep_thumbnail.png?raw=true"/>
 
 ---
 [Modeling High-Strain Rate Armor Deformation](http://example.com/)
-<img src="images/armor_thumbnail.jpg?raw=true"/>
+<img src="images/armor_thumbnail.png?raw=true"/>
 
 
 ---
@@ -27,7 +27,7 @@ I also have a number of side projects that keep me busy.
 ### Past Projects
 
 [Masters Thesis Defense Abriged: An Investigation of Spark Erosion and Multispectral Nanoparticle Tracking](/pdf/thesis_defense.pdf)
-<img src="images/thesis_thumbnail.jpg?raw=true"/>
+<img src="images/thesis_thumbnail.png?raw=true"/>
 
 
 
