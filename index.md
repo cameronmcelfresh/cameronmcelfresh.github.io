@@ -3,26 +3,22 @@
 ---
 My research has touched on a number of areas, ranging from simulation of high-temperature creep in nanopillars to design and fabrication of a submerged spark-discharge apparatus. My recent publications. 
 
-At UCLA I am focused on developing computational methods to simulate material plasticity in environments that are difficult (or impossible) to experimentally observe - including [dislocation avalanches](/avalanche_page), [high-temperature creep](/creep_page), and [high-strain rate deformation](/sample_page). 
+At UCLA I am focused on developing computational methods to simulate material plasticity in environments that are difficult (or impossible) to experimentally observe - including [high-temperature creep](/creep_page), [dislocation avalanches](/avalanche_page), and [high-strain rate deformation](/sample_page). 
 
 
 I also have a number of side projects that keep me busy.
 
 --- 
 ### Current Projects
-
-[Dislocation Dynamics Modeling of Avalanche Events](/avalanche_page)
-<img src="images/avalanche_thumbnail.png?raw=true"/>
-
 ---
 [High-Temperature Vacancy-Mediated Creep](/creep_page)
 <img src="images/creep_gif.gif?raw=true"/>
-
+---
+[Dislocation Dynamics Modeling of Avalanche Events](/avalanche_page)
+<img src="images/avalanche_thumbnail.png?raw=true"/>
 ---
 [Modeling High-Strain Rate Armor Deformation](/sample_page)
 <img src="images/ti_thumbnail.png?raw=true"/>
-
-
 ---
 
 ### Past Projects
