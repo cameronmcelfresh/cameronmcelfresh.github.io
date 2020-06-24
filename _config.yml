@@ -3,7 +3,7 @@ logo: "/images/logo_new.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hi! I'm a Ph.D. candidate in Materials Science & Engineering at <a href="https://www.mse.ucla.edu">UCLA</a>, under the guidance of <a href="http://jmarian.bol.ucla.edu">Dr. Jaime Marian</a>. 
   <br><br>
-  <img src="/images/c++_logo.png" height="40" width="40">  <img src="/images/python_logo.jpg" height="40" width="40"> <img src="/images/matlab_logo.jpg" height="40" width="40">
+  <img src="/images/c++_logo.png" height="40" width="40">  <img src="/images/python_logo.png" height="40" width="80"> <img src="/images/matlab_logo.jpg" height="40" width="40">
   <br><br>
   <a href="https://www.linkedin.com/in/cameronmcelfresh//">View My LinkedIn Profile</a> 
   <br><br>
