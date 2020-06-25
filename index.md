@@ -16,7 +16,7 @@ I also have a number of side projects that keep me busy.
 
 ---
 [Dislocation Dynamics Modeling of Avalanche Events](/avalanche_page)
-<img src="images/avalanche_thumbnail.png?raw=true"/>
+<img src="images/avalanche_thumbnail1.png?raw=true"/>
 
 ---
 [Modeling High-Strain Rate Armor Deformation](/sample_page)
@@ -37,7 +37,7 @@ I also have a number of side projects that keep me busy.
 ---
 
 [Kernel Average Misorientation Analysis of EBSD Data](/sample_page)
-<img src="images/thesis_thumbnail.png?raw=true"/>
+<img src="images/kam_thumbnail.png?raw=true"/>
 
 ---
 
