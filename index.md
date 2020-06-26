@@ -30,7 +30,7 @@ I also have a number of side projects that keep me busy.
 
 ---
 
-[Phase stability and mechanical properties of novel high entropy transi-tion metal carbides](/sample_page)
+[Phase stability and mech. properties of novel high entropy transition metal carbides](/sample_page)
 <img src="images/thesis_thumbnail.png?raw=true"/>
 
 ---
