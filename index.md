@@ -15,7 +15,7 @@ I also have a number of side projects that keep me busy.
 [Dislocation Dynamics Modeling of Avalanche Events](/avalanche_page)
 <img src="images/avalanche_thumbnail1.png?raw=true"/>
 
-[Modeling High-Strain Rate Armor Deformation](/dual_page_page)
+[Modeling High-Strain Rate Armor Deformation](/dual_phase_page)
 <img src="images/ti_thumbnail.png?raw=true"/>
 
 ---
