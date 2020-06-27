@@ -26,7 +26,7 @@ I also have a number of side projects that keep me busy.
 <img src="images/spark_gif.gif?raw=true" width="480" height="300"/>
 
 [Phase stability and mechanical properties of novel high entropy transition metal carbides](/sample_page)
-<img src="images/thesis_thumbnail.png?raw=true"/>
+<img src="images/he_thumbnail.png?raw=true"/>
 
 [Kernel Average Misorientation Analysis of EBSD Data](/sample_page)
 <img src="images/kam_thumbnail.png?raw=true"/>
