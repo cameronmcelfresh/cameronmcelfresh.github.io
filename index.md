@@ -25,17 +25,11 @@ I also have a number of side projects that keep me busy.
 [Masters Thesis Defense Abriged: An Investigation of Spark Erosion and Multispectral Nanoparticle Tracking](/pdf/thesis_defense.pdf)
 <img src="images/spark_gif.gif?raw=true" width="480" height="300"/>
 
-[Spark Erosion as a High-throughput Nanoparticle production Technique](/se_page)
-<img src="images/he_thumbnail.png?raw=true"/>
-
 [Phase stability and mechanical properties of novel high entropy transition metal carbides](/he_page)
 <img src="images/he_thumbnail.png?raw=true"/>
 
 [Kernel Average Misorientation Analysis of EBSD Data](/kam_page)
 <img src="images/kam_thumbnail.png?raw=true"/>
-
-[Investigation of Multispectral Nanoparticle Tracking](/manta_page)
-<img src="images/he_thumbnail.png?raw=true"/>
 
 [Simulation of XRD Patterns](/xrd_page)
 <img src="images/xrd_thumbnail.png?raw=true"/>
