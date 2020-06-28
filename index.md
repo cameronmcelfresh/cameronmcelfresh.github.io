@@ -50,17 +50,17 @@ I also have a number of side projects that keep me busy.
 ---
 
 **C. McElfresh**, Y. Cui , S. Dudarev, G. Poe, J. Marian, Discrete stochastic model of point defect-dislocation interaction for simulating dislocation climb (*working paper*)
-<br>
+<br><br>
 **C. McElfresh**, T. Harrington, K. Vecchio. Spark erosion as a high-throughput method for producing bimodal nanostructured 316l stainless steel powders. *Powder Technology*, (328): 156-166. April 2018.
-<br>
+<br><br>
 **C. McElfresh**, T. Harrington, K. Vecchio. Application of a novel new multispectral nanoparticle tracking technique. *Measurement Science and Technology*, (29)6, April 2018.
-<br>
+<br><br>
 T. Harrington, M. Samiee, O. Dippo, **C. McElfresh**, J. Gild, K. Vecchio. Synthesis and phase formation of refractory transition metal carbides. *Acta Materialia*. (166): 271-280. March 2019.
-<br>
+<br><br>
 PA. Jaeger, L. Ornelas, **C. McElfresh** LR. Wong, RY. Hampton, T. Ideker. Systematic gene-to-phenotype arrays: a high-throughput technique for molecular phenotyping. *Molecular Cell*, (69)2: 321-333, Jan 2018.
-<br>
+<br><br>
 PA. Jaeger, **C. McElfresh**, LR. Wong, T. Ideker. Beyond agar: optimized gel substrates for microbial growth experiments. *Applied and Environmental Microbiology*, 81(16): 5639-5649, Aug 2015.
-<br>
+<br><br>
 PA. Jaeger, M. Paschini, GJ. Bean, L. Chen, B. Hsu, **C. McElfresh**, LR. Wong, V. Lundblad, T. Ideker. The regulatory gene network of telomere length in yeast. (*working paper*)
-<br>
+<br><br>
 **C. McElfresh**, L. Borowski, T. Harrington, K. Vecchio, G. Tynan. Investigation of Liquid Spark Erosion Nanoparticle Fabrication Using High- Speed Imaging and Emission Spectroscopy (*working paper*)
