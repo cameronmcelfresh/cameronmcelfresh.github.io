@@ -1,8 +1,9 @@
 # To-Do for website
 - link website to github
-- create area for sideprojects
+- create area for side projects
 - link github to KAM
 - link github to XRD
+- provide links for papers
 
 
 
