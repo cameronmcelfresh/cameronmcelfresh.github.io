@@ -1,3 +1,11 @@
+# To-Do for website
+- link website to github
+- create area for sideprojects
+- link github to KAM
+- link github to XRD
+
+
+
 ## Developer Portfolio Landing Page Template
 
 ### Introduction
