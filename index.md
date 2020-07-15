@@ -37,11 +37,13 @@ I also have a number of side projects that keep me busy.
 ---
 ### Side Projects
 ---
-#### RNN For Commenting on Newspaper Articles
-Project exploring web scraping, data exploration and clustering, and RNN text production. <a href="https://github.com/cameronmcelfresh/ML_Scrape_TwitterBot">Project's Github</a> 
 
+#### RNN For Commenting on Newspaper Articles
+
+Project exploring web scraping, data exploration and clustering, and RNN text production. <a href="https://github.com/cameronmcelfresh/ML_Scrape_TwitterBot">Project's Github</a> 
 <br>
 #### Elastic Particle Simulation
+
 Easy-to-use visualization of random or gravity-driven particle movement with elastic interactions - <a href="https://github.com/cameronmcelfresh/particle-fun">Project's Github</a> 
 <br>
 
