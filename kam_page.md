@@ -6,6 +6,7 @@
 
 <a href="https://github.com/cameronmcelfresh/kernel-average-misorientation6">Link to Project's Github</a> 
 <br>
+
 <img src="images/kam_thumbnail.png?raw=true"/>
 
 
