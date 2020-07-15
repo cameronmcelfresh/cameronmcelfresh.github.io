@@ -5,5 +5,7 @@
 <br>
 
 <a href="https://github.com/cameronmcelfresh/xrd-simulate">Link to Project's Github</a>
+<br>
+
 
 <img src="images/xrd_thumbnail.png?raw=true"/>
