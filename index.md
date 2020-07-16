@@ -1,7 +1,7 @@
 ## Research
 
 ---
-At UCLA I am focused on developing computational methods to simulate material plasticity in environments that are difficult (or impossible) to experimentally observe - including [high-temperature creep](/creep_page), [dislocation avalanches](/avalanche_page), and [high-strain rate deformation](/sample_page). 
+I develop computational methods to simulate material plasticity in environments that are difficult (or impossible) to experimentally observe - including [high-temperature creep](/creep_page), [dislocation avalanches](/avalanche_page), and [high-strain rate deformation](/sample_page). 
 
 
 I also have a number of side projects that keep me busy.
