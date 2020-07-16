@@ -40,7 +40,7 @@ I also have a number of side projects that keep me busy.
 ### Side Projects
 ---
 
-#### Scraping Grocery Price Data (In Progress)
+#### Scraping And Storing Grocery Price Data (In Progress)
 Tool for scraping and storing up-to-date grocery price data and storing it in a growing excel file - <a href="https://github.com/cameronmcelfresh/grocery_scrape">Project's Github</a> 
 <br>
 
