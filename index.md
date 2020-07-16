@@ -5,7 +5,7 @@ At UCLA I am focused on developing computational methods to simulate material pl
 
 
 I also have a number of side projects that keep me busy.
-<br>
+<br><br><br>
 
 ### Current Projects
 ---
@@ -17,7 +17,7 @@ I also have a number of side projects that keep me busy.
 
 [Modeling High-Strain Rate Armor Deformation](/dual_phase_page)
 <img src="images/ti_thumbnail.png?raw=true"/>
-<br>
+<br><br><br>
 
 
 ### Past Projects
@@ -34,7 +34,7 @@ I also have a number of side projects that keep me busy.
 
 [Simulation of XRD Patterns](/xrd_page)
 <img src="images/xrd_thumbnail.png?raw=true"/>
-<br>
+<br><br><br>
 
 
 ### Side Projects
@@ -50,7 +50,7 @@ Project exploring web scraping, data exploration and clustering, building a twit
 
 #### Elastic Particle Simulation
 Easy-to-use visualization of random or gravity-driven particle movement with elastic interactions - <a href="https://github.com/cameronmcelfresh/particle-fun">Project's Github</a> 
-<br>
+<br><br><br>
 
 
 
