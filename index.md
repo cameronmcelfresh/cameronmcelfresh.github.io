@@ -5,7 +5,7 @@ At UCLA I am focused on developing computational methods to simulate material pl
 
 
 I also have a number of side projects that keep me busy.
-
+<br>
 
 ### Current Projects
 ---
@@ -17,6 +17,7 @@ I also have a number of side projects that keep me busy.
 
 [Modeling High-Strain Rate Armor Deformation](/dual_phase_page)
 <img src="images/ti_thumbnail.png?raw=true"/>
+<br>
 
 
 ### Past Projects
@@ -33,6 +34,7 @@ I also have a number of side projects that keep me busy.
 
 [Simulation of XRD Patterns](/xrd_page)
 <img src="images/xrd_thumbnail.png?raw=true"/>
+<br>
 
 
 ### Side Projects
