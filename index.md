@@ -42,11 +42,11 @@ I also have a number of side projects that keep me busy.
 
 #### Scraping And Storing Grocery Price Data (In Progress)
 Tool for scraping and storing up-to-date grocery price data and storing it in a growing excel file - <a href="https://github.com/cameronmcelfresh/grocery_scrape">Project's Github</a> 
-<br>
+<br><br>
 
 #### Twitter Bot and RNN for Commenting on Newspaper Articles
 Project exploring web scraping, data exploration and clustering, building a twitter bot, and RNN text production - <a href="https://github.com/cameronmcelfresh/ML_Scrape_TwitterBot">Project's Github</a> 
-<br>
+<br><br>
 
 #### Elastic Particle Simulation
 Easy-to-use visualization of random or gravity-driven particle movement with elastic interactions - <a href="https://github.com/cameronmcelfresh/particle-fun">Project's Github</a> 
